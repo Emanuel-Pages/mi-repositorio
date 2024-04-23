@@ -1,0 +1,15 @@
+/*que hay en la carpeta*/
+ls
+/*navegar entre directorios*/
+cd
+/*abrir unb archivo*/
+vi
+/*que contiene el archivo sin ingresar al archivo*/
+cat
+/*global settings*/
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+/*para saber los cambios del estado del repositorio*/
+git status
+/*para agregar al cache los archivos*/
+git add .
