@@ -63,7 +63,7 @@ h1 {
 }
 
 .container-icon{
-    position: relative;
+    position: absolute;
 }
 .count-product{
     position: absolute;
