@@ -181,9 +181,8 @@ img{
 }
 .container-icon{
     display: flex;
-    justify-content: flex-end;
     padding: 20px 21px 0 0;
-    width: 90px;
+    width: 66px;
     right: 29px;
 }
 
