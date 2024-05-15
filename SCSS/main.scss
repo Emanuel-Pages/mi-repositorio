@@ -1,0 +1,5 @@
+$color-red: red;
+$color-black:1px solid rgba(0, 0, 0, 0.20);
+.item:hover{
+    box-shadow: $color-black;
+}
