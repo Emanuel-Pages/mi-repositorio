@@ -142,7 +142,7 @@ h1 {
 
 
 .icon-close:hover{
-    stroke: red;
+    stroke:red;
     cursor: pointer;
 }
 
@@ -220,7 +220,7 @@ h1{
 }
 
 .item:hover{
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.20);
+    box-shadow: 1px solid rgba(0, 0, 0, 0.20);
 }
 
 
@@ -264,7 +264,7 @@ h1{
 }
 /* footer */
 .container-foot{
-    height: 300px;
+    height: 50px;
     position: absolute;
     bottom: 0;
 }
