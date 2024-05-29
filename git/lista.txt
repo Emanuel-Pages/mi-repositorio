@@ -2,7 +2,7 @@
 ls
 /*navegar entre directorios*/
 cd
-/*abrir unb archivo*/
+/*abrir un archivo*/
 vi
 /*que contiene el archivo sin ingresar al archivo*/
 cat
